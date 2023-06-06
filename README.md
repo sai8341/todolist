@@ -30,7 +30,5 @@ If you want to customize the application, you can modify the HTML, CSS, and Java
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request on the project's GitHub repository.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
